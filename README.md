@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, Linux, programming, CompSci, ethical hacking, and basically all other technology ever.
 - 🌱 I’m currently learning ethical hacking and red team tactics, as well as some C++ on the side.
 - 💞️ I’m collaborating as part of LiveG on products like the gDesk and Neuron.
-- 📫 How to reach me - I prefer not to be contacted directly, so don't give contact details on the internet 😀
+- 📫 How to reach me - I prefer not to be contacted directly, so I don't give contact details on the internet 😀
 
 [![tramcrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramcrazy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
