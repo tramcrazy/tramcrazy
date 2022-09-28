@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @tramcrazy
 - 👀 I’m interested in cybersecurity, Linux, programming, CompSci, ethical hacking, and basically all other technology ever.
 - 🌱 I’m currently learning ethical hacking and red team tactics, as well as some C++ on the side.
-- 💞️ I am CISO at LiveG and also work on documentation. I also make YouTube videos! https://tramlink.tk/yt
+- 💞️ I am CISO at LiveG and also work on documentation. I also make YouTube videos! https://go.tramcrazy.com/yt
 - 📫 My work email is tram@tramcrazy.com
 
 [![tramcrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramcrazy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
