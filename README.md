@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ethical hacking and red team tactics, as well as some C++ on the side.
 - 💞️ I am CISO at LiveG and also work on documentation. I also make YouTube videos! https://go.tramcrazy.com/yt
 - 📫 My work email is tram@tramcrazy.com
+- 💬 Join us in the LiveG community - [https://discord.gg/KeFPRZEgGd](https://discord.gg/KeFPRZEgGd)
 
 [![tramcrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramcrazy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
