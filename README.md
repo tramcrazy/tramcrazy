@@ -1,7 +1,7 @@
 <a href="https://donate.redcross.org.uk/appeal/ukraine-crisis-appeal"><img src="https://img.shields.io/badge/I%20support-Ukraine's%20independence-yellow?labelColor=005bbb&color=ffd500&style=flat"></a>
 - 👋 Hi, I’m @tramcrazy
 - 👀 I’m interested in cybersecurity, Linux, programming, CompSci, ethical hacking, and basically all other technology ever.
-- 🌱 I’m currently learning ethical hacking and red team tactics, as well as some C++ on the side.
+- 🌱 I’m currently learning Harvard University's online CS50 course, alongside some cybersecurity stuff and my school studies.
 - 💞️ I am CISO at LiveG and also work on documentation. I also make YouTube videos! https://go.tramcrazy.com/yt
 - 📫 My work email is tram@tramcrazy.com
 - 💬 Join us in the LiveG community - [https://discord.gg/KeFPRZEgGd](https://discord.gg/KeFPRZEgGd)
