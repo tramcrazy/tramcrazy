@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @tramcrazy
 - 👀 I’m interested in software engineering, cybersecurity, Linux, computer science, repairability, and basically all technology ever.
 - 🌱 I’m currently learning Java for school as well as working on my micro:bit clustering software, cluster:bit!
-- 💞️ I am CISO at LiveG and also work on documentation. I (used to) make YouTube videos! https://go.tramcrazy.com/yt
+- 💞️ I am CISO at LiveG and also work on documentation. I (used to) make YouTube videos! https://tramcrazy.com/yt
 - 📫 My work email is tram@tramcrazy.com
 - 💬 Join us in the LiveG community - [https://discord.gg/KeFPRZEgGd](https://discord.gg/KeFPRZEgGd)
 
